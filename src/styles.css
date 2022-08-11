@@ -1,0 +1,56 @@
+form {
+  position: relative;
+}
+
+.fa-magnifying-glass {
+  position: absolute;
+  left: 33px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.form-control {
+  padding-left: 30px;
+}
+
+.icon-lg {
+  font-size: 30px;
+}
+
+.fa-sun {
+  color: rgb(238, 195, 4);
+}
+
+.fa-cloud-sun {
+  color: rgb(0, 255, 234);
+}
+
+.font-lg {
+  font-size: 30px;
+}
+
+sup {
+  font-size: 16px;
+}
+
+h1 {
+  color: rgb(104, 17, 17);
+}
+
+h5 {
+  font-size: 16px;
+  color: rgb(55, 4, 97);
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a.disabled {
+  color: #000;
+  pointer-events: none;
+}
